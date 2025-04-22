@@ -6,8 +6,6 @@ I decided to build this chatbot with the help of Real Python's LLM RAG Chatbot D
 
 Start by cloning this repo and adding a `.env` file with the following environment variables:
 
-```markdown
-
 ```bash
 OPENAI_API_KEY=<YOUR_OPENAI_API_KEY>
 
