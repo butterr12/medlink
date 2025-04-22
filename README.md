@@ -1,4 +1,3 @@
-```markdown
 # Healthcare RAG Agent
 
 I decided to build this chatbot with the help of Real Python's LLM RAG Chatbot Dataset.
@@ -6,6 +5,8 @@ I decided to build this chatbot with the help of Real Python's LLM RAG Chatbot D
 ## Why don't you check it out?
 
 Start by cloning this repo and adding a `.env` file with the following environment variables:
+
+```markdown
 
 ```bash
 OPENAI_API_KEY=<YOUR_OPENAI_API_KEY>
