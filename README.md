@@ -26,6 +26,7 @@ HOSPITAL_QA_MODEL=gpt-3.5-turbo-0125
 
 CHATBOT_URL=http://host.docker.internal:8000/hospital-rag-agent
 ```
+You can use the latest gpt-4.o-mini instead of the gpt-3.5.
 
 Next, navigate to the project root, start Docker, make sure your AuraDB instance is up and running, and then run:
 ```bash
