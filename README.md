@@ -1,6 +1,6 @@
 # Healthcare RAG Agent
 
-I decided to build this chatbot with the help of Real Python's LLM RAG Chatbot Dataset.
+The Healthcare RAG Agent is an AI-powered chatbot using RAG, LangChain, Neo4j, and OpenAI GPT, built with Real Python's LLM RAG Chatbot Dataset.
 
 ## Why don't you check it out?
 
