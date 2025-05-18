@@ -2,6 +2,8 @@
 
 The Healthcare RAG Agent is an AI-powered chatbot using RAG, LangChain, Neo4j, and OpenAI GPT, built with Real Python's LLM RAG Chatbot Dataset.
 
+P.S. The chatbot-api folder does not contain any api keys :) It was just named like that for convenience, don't worry.
+
 ## Why don't you check it out?
 
 Start by cloning this repo and adding a `.env` file with the following environment variables:
